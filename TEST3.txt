@@ -1,0 +1,7 @@
+UNIVARIATE ANALYSIS: In the context of the loan sanction prediction problem, univariate analysis refers to the examination and exploration of individual variables in the dataset independently. It involves analyzing each variable separately to understand its characteristics, distribution, central tendencies, and variability.
+For instance, in the dataset comprising factors like gender, education, area of stay, number of children, previous loan statuses, and credit histories, univariate analysis would involve studying each of these variables individually.
+Age: Analyzing the distribution of ages to understand the demographic spread of individuals in the dataset.
+Sex: Studying the gender distribution to discern the representation of males and females in the dataset.
+
+Chest Pain Type (CP): Evaluating the frequencies of different chest pain types (0, 1, 2, 3) to comprehend their prevalence.
+Resting Blood Pressure (trestbps): Investigating the distribution of resting blood pressure values to identify
